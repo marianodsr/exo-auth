@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "name": "nito",
+            "last_name": "dsr",
+            "email": "m@gmail.com",
+            "password": "123",
+            "login_count": 1
+        },
+        {
+            "name": "mati",
+            "last_name": "aguilar",
+            "email": "mat@gmail.com",
+            "password": "123",
+            "login_count": 1
+        }
+    
+    ],
+    "companies": [
+        {
+            "name": "Nura",
+            "userID": 1
+        },
+        {
+            "name": "Calu",
+            "userID": 1
+        },
+        {
+            "name": "Claro",
+            "userID": 2
+        },
+        {
+            "name": "Movistar",
+            "userID": 2
+        }
+    ]
+}
